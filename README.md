@@ -1,4 +1,4 @@
-#Characterizing Mechanistic Uniqueness and Identifiability Through Circuit Analysis
+**Characterizing Mechanistic Uniqueness and Identifiability Through Circuit Analysis**
 
 This is the accompanying code to the paper Characterizing Mechanistic Uniqueness and Identifiability Through Circuit Analysis
 

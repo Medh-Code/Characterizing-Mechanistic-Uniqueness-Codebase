@@ -2,6 +2,6 @@
 
 This is the accompanying code to the paper Characterizing Mechanistic Uniqueness and Identifiability Through Circuit Analysis
 
-Each of the experiments discussed in the paper has a corresponding notebook file in the google drive.
+Each of the experiments discussed in the paper has a corresponding notebook file in the google drive. The Representational Rank is currently a (WIP).
 
 Our circuit enumeration procedure was adapted from the codebase of the paper, Everything, Everywhere, All at Once: Is Mechanistic Interpretability Identifiable?. The paper is available here [Paper](https://arxiv.org/abs/2502.20914) and the corresponding codebase can be found here [Github](https://github.com/MelouxM/MI-identifiability).
